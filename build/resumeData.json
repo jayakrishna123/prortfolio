@@ -1,0 +1,140 @@
+{
+  "main": {
+    "name": "Jayakrishna",
+    "occupation": "ReactJS Developer && Full Stack web developer",
+    "description": " And also a Flutter developer",
+    "image": "jayakrishna.jpg",
+    "bio": "My name is jayakrishna, I'm a final year student. Currently I'm learning Fullstack web development and ReactJS Developer and Flutter developer",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "jayakrishnachadalawada29329@gmail.com",
+    "phone": "+917993425117",     
+    "address": {
+      "street": "konasamudram",
+      "city": "nellore",
+      "state": "India",
+      "zip": "524307"
+    },
+    "website": "https://jayacv.000webhostapp.com/",
+    "resumedownload": "https://jayacv.000webhostapp.com/",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100009229186734",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jaya-krishna-485067153/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/jayakrishna_ksm/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jayakrishna123",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Bharath institute of higher education and research",
+        "degree": "computer science and engineering",
+        "graduated": "July 2021 ",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Internshala",
+        "title": "Campus Ambassador",
+        "years": "september 2019 - january 2020",
+        "description": "Creatinng Awareness about Intenships and Internshala to thousands of students."
+      },
+      {
+        "company": "K&VR tutorials",
+        "title": "youtuber",
+        "years": "january 2020 -present",
+        "description": " teaching flutter development tutorials to lot of viewers"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Flutter",
+        "level": "80%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Node.js",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "Google cloud platform",
+        "level": "60%"
+      }
+     
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      { 
+        "title": "Ksm village web site",
+        "category": "website built with(ExpressJS,Html5,node.js,css)",
+        "image": "1.png",
+        "url": "http://konasamudram.ml"
+      },
+      {
+        "title": "Face recognition app",
+        "category": "face recognition built with (js,Machine learning,tensor flow,html,css)",
+        "image": "2.gif",
+        "url": "http://jayacv.000webhostapp.com/"
+      },
+      {
+        "title": "my portfolio",
+        "category": "github Clone built with ReactJS",
+        "image": "3.png",
+        "url": "http://jayacv.000webhostapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      },
+      {
+        "text": "Work hard Earn sucess....",
+        "user": "jayakrishna"
+      }
+    ]
+  }
+}
